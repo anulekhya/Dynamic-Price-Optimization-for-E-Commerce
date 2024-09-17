@@ -1,0 +1,3 @@
+- The model is used to optimize the prices and find out the total discount that can be availed on a product based on various factors.
+- The model is trained using SVM
+- This is not specifically for a particular type of product but generally and also the discount calculation will include the transportation mode.
